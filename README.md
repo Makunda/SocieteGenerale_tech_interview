@@ -21,9 +21,9 @@ You can find in this repository 3 folders for each version of the solution.
   - Spring Version : A RESTfull webservice (Maven project / with JUnit Tests)
   
 Can you think of how to extend the scope of the problem? 
-To broaden the scope of the problem, we could have thought of a problem with more dimensions, or particles shocking each other.
+- To broaden the scope of the problem, we could have thought of a problem with more dimensions, or particles shocking each other.
 
 Do you think Java solution to the above problem can be implementd with Spring boot in a better way? 
 If answer is yes do it. if anser is no, explain. 
-Yes it can be implemented in Spring Boot. We can re-use the static method from the project and make it more scalable. 
+- Yes it can be implemented in Spring Boot. We can re-use the static method from the project and make it more scalable. 
 
