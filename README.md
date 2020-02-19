@@ -15,5 +15,15 @@ We would like an animation of the process. At each unit of time, we want a strin
 The method will return an array of strings in which each successive element shows the occupied locations at the next time unit. The first element of the return should show the occupied locations at the initial instant (at time = 0) in the 'X', '.' format. The last element in the return should show the empty chamber at the first time that it becomes empty.
 
 ## Answers
+You can find in this repository 3 folders for each version of the solution.
+  - JAVA Version : A classic java solution with the Animation Class (No Tests)
+  - Python Version : A basic python version (No Tests)
+  - Spring Version : A RESTfull webservice (Maven project / with JUnit Tests)
+  
 Can you think of how to extend the scope of the problem? 
-To extand the scope of the probleme, we could have think of a problem in more dimensions.
+To broaden the scope of the problem, we could have thought of a problem with more dimensions, or particles shocking each other.
+
+Do you think Java solution to the above problem can be implementd with Spring boot in a better way? 
+If answer is yes do it. if anser is no, explain. 
+Yes it can be implemented in Spring Boot. We can re-use the static method from the project and make it more scalable. 
+
